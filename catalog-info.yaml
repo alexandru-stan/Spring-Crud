@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Spring-Crud
+  annotations:
+    github.com/project-slug: alexandru-stan/Spring-Crud
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
